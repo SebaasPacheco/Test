@@ -210,10 +210,17 @@ section, section > h2 {
 
 }
 
-div>section {
-	background-color: gray;
+#section-1 {
+	background-color: #D6D6D6;
 }
 
+#section-2 {
+	background-color: #D6D6D6;
+}
+
+#section-3 {
+	background-color: #D6D6D6;
+}
 
 #section-1 > h2 {
 	background-color: #FF8880;
@@ -224,5 +231,5 @@ div>section {
 }
 
 #section-3 > h2 {
-	background-color: yellow;
+	background-color: #8DFF55;
 }
